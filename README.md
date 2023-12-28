@@ -1,2 +1,15 @@
 # SecureMessenger
-Secure your conversations with SecureMessenger, a privacy-focused messaging app.
+
+SecureMessenger is a privacy-focused messaging app that prioritizes the security of your conversations. It employs end-to-end encryption, self-destructing messages, and anonymity features.
+
+## Features
+- End-to-end encryption
+- Self-destructing messages
+- Anonymity features
+
+## Getting Started
+Explore the [wiki](docs/wiki.md) for detailed information.
+
+## License
+This project is licensed under the GNU Affero General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+
